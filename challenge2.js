@@ -16,10 +16,4 @@ function calculateDemeritPoints(speedLimit, speed) {
     }
   }
   
-  // Example usage
-  const speedLimit = 70; // Set speed limit
-  const carSpeed = 180; // Input car speed
-  
-  const message = calculateDemeritPoints(speedLimit, carSpeed);
-  console.log(message); // Output: Points: 2
   
